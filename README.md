@@ -1,2 +1,1 @@
-# rsschool-cv
-markdown &amp; git
+ https://colaindiana.github.io/rsschool-cv/cv
